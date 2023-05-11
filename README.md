@@ -17,7 +17,5 @@
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div>
- 
-  ![Animação de cobra](https://github.com/DiegoF824/DiegoF824/blob/output/github-contribution-grid-snake.svg)
 
 </div>
